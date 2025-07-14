@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Quintanilla</h1>
 <h3 align="center">A passionate ML/AI Engineer from Mexico</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduquintanillae&theme=dark" alt="eduquintanillae" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=eduquintanillae&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
