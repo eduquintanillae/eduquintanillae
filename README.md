@@ -46,6 +46,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </div>
 
+## 🛠 Open Source Contributions
+- [Awesome-LLM - PR #229](https://github.com/Hannibal046/Awesome-LLM/pull/229): Helped improve the Awesome-LLM docs by adding Axolotl training framework to the README file.
+
 <!-- <p align="left">
 <a href="https://linkedin.com/in/edu-quintanilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edu-quintanilla" height="30" width="40" /></a>
 </p> -->
