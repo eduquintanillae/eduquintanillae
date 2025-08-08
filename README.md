@@ -10,6 +10,8 @@
   </a>
 </p>
 
+![Snake animation](https://github.com/eduquintanillae/eduquintanillae/raw/output/dist/github-snake.svg)
+
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <h2 align="left">Backend, AI/ML & Data Visualization Tools</h2>
 
